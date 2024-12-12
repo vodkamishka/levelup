@@ -361,22 +361,14 @@ ul {
 /*}*/
 
 .education {
-    background: var(--white);
-    color: var(--dack-blue-button);
-    position: relative;
-}
-
-.education__inner {
     padding: 200px;
+    background: var(--white);
     display: flex;
     width: 100%;
     flex-direction: column;
     gap: 100px;
-}
-
-.education__image {
-    width: 100%;
-    display: block;
+    color: var(--dack-blue-button);
+    position: relative;
 }
 
 .level-up {
